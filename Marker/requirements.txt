@@ -1,0 +1,10 @@
+opencv-python
+numpy 
+pandas
+datetime
+pillow
+keras
+tensorflow
+h5py
+progressbar2
+scikit-learn
